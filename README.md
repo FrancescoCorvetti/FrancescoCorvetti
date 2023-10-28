@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FrancescoCorvetti
+- 👀 I’m interested in developing
+- 🌱 I’m currently learning c++ * UE5.3
+- 💞️ I’m looking to collaborate on Xbox
+- 📫 How to reach me @biggestdevvss on discord
