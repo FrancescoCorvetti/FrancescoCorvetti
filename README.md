@@ -13,6 +13,7 @@ Ecco alcune delle mie competenze chiave:
 - Programmazione in C++, C#, Java, Python
 - Sviluppo di frontend con Node.js e altri framework
 - Abilità avanzate in grafica e design utilizzando Adobe Photoshop, Illustrator, After Effects e altro
+![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 
 ## Cosa troverai in questo repository
 
