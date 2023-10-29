@@ -1,8 +1,21 @@
+<!-- Aggiungo uno stile CSS per il colore -->
+<style>
+  h1 {
+    color: #007BFF; /* Blu */
+  }
+  h2 {
+    color: #343A40; /* Grigio scuro */
+  }
+</style>
+
+<!-- Immagine di intestazione -->
+![Intestazione](inserisci_url_dell_immagine)
+
 # Benvenuti nel mio mondo creativo!
 
 ## Chi sono
 
-Ciao, sono **Francesco Corvetti**! Sono un appassionato game developer che si concentra su Unreal Engine 5, con competenze in vari linguaggi di programmazione e software Adobe. 
+Ciao, sono **Francesco Corvetti**! Sono un appassionato game developer che si concentra su Unreal Engine 5, con competenze in vari linguaggi di programmazione e software Adobe.
 
 Ecco alcune delle mie competenze chiave:
 
@@ -19,8 +32,8 @@ In questo repository, troverai una serie di progetti che dimostrano le mie abili
 
 Sono sempre aperto a nuove opportunità di collaborazione e progetti interessanti. Se desideri entrare in contatto con me, puoi farlo tramite i seguenti canali:
 
-- Email: [francescocorvettisecure@gmail.com]
-- Sito Web: [In Progress...](google.com)
+- Email: [francescocorvettisecure@gmail.com](mailto:francescocorvettisecure@gmail.com)
+- Sito Web: [In Progress...](https://www.google.com)
 
 ## Riconoscimenti
 
