@@ -1,17 +1,7 @@
-<!-- Aggiungo uno stile CSS per il colore -->
-<style>
-  h1 {
-    color: #007BFF; /* Blu */
-  }
-  h2 {
-    color: #343A40; /* Grigio scuro */
-  }
-</style>
-
-<!-- Immagine di intestazione -->
-![Intestazione](inserisci_url_dell_immagine)
-
-# Benvenuti nel mio mondo creativo!
+<!-- Intestazione colorata -->
+<div style="background-color: #007BFF; padding: 20px;">
+  <h1 style="color: white;">Benvenuti nel mio mondo creativo!</h1>
+</div>
 
 ## Chi sono
 
@@ -22,7 +12,7 @@ Ecco alcune delle mie competenze chiave:
 - Unreal Engine 5 per lo sviluppo di giochi in C++
 - Programmazione in C++, C#, Java, Python
 - Sviluppo di frontend con Node.js e altri framework
-- Abilità avanzate in grafica e design utilizzando Adobe Photoshop, Illustrator, After Effects, e altro
+- Abilità avanzate in grafica e design utilizzando Adobe Photoshop, Illustrator, After Effects e altro
 
 ## Cosa troverai in questo repository
 
