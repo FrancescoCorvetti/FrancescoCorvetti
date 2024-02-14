@@ -94,7 +94,7 @@ Sono sempre aperto a nuove opportunità di collaborazione e progetti interessant
 
 Ho avuto il privilegio di lavorare su progetti interessanti e sono grato per le opportunità che ho avuto. Alcuni dei miei lavori precedenti sono stati riconosciuti e menzionati nei seguenti luoghi:
 
-- [ULTRA CLEANER](https://github.com/FrancescoCorvetti/BOOSTED-PRESET-CLEANER/tree/main)
+- [In futuro.. ](link alla menzione1)
 - [In futuro.. ](link_alla_menzione2)
 
 ## Contributi
