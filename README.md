@@ -4,15 +4,14 @@
 </div>
 
 ## Chi sono
-
-Ciao, sono **Francesco Corvetti**! Sono un appassionato game developer che si concentra su Unreal Engine 5, con competenze in vari linguaggi di programmazione e software Adobe.
+Ciao, sono Francesco Corvetti! Sono un appassionato game developer e sviluppatore web, con competenze in vari linguaggi di programmazione e software Adobe.
 
 Ecco alcune delle mie competenze chiave:
 
-- Unreal Engine 5 per lo sviluppo di giochi in C++
-- Programmazione in C++, C#, Java, Python
-- Sviluppo di frontend con Node.js e altri framework
-- Abilità avanzate in grafica e design utilizzando Adobe Photoshop, Illustrator, After Effects e altro
+Sviluppo di giochi con Unreal Engine 5 utilizzando C++
+Programmazione avanzata in C++, C#, Java e Python
+Sviluppo di frontend e backend per siti web utilizzando Node.js, React, Next.js, Express.js e altri framework
+Abilità avanzate in grafica e design utilizzando Adobe Photoshop, Illustrator, After Effects e altri software Adobe
 
 ## Navigatori Web:
 1. ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
